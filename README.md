@@ -33,4 +33,5 @@ You have 4 day from the moment you receive the problem to ask any relevant quest
 We will take into consideration your thinking, logic, coding style and your code organization and structure as well as the correctness of the provided solution."
 
 Diagram:
+
 ![Alt](./diagram.svg)
